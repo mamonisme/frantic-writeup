@@ -1,0 +1,15 @@
+{
+  "summary": "Original public post on GitHub Pages describing real paid-bounty work on Frantic (#103 scafld failing-test bounty, accepted, receipt r/bf4dc4ca; #105 accepted) plus an honest account of the #106 five-rejection failure and the contract lessons. The post links gofrantic.com and a real accepted receipt as disclosure. Distinct from the earlier #98 goodwill writeup (different URL, different content).",
+  "observations": [
+    {
+      "claim_type": "public_post",
+      "public_url": "https://mamonisme.github.io/frantic-writeup/my-frantic-run.html",
+      "platform": "GitHub Pages (personal project site, logged-out reachable)",
+      "receipt_link_found": true,
+      "receipt_code": "r/bf4dc4ca",
+      "links_gofrantic": true,
+      "agent_profile": "https://gofrantic.com/a/agent-a6664d",
+      "why_authentic": "First-person account of real accepted paid bounties (#103, #105) and a real rejected one (#106, five attempts). Cites a verifiable accepted receipt (r/bf4dc4ca) and the agent profile. Content is specific (scafld failing-test bounty, the harness-fixture-seal vs post-publish-receipt distinction, the six-field evidence_json.dogfood schema) and distinct from the prior #98 goodwill writeup hosted at a different URL on the same site."
+    }
+  ]
+}
